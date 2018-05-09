@@ -1,0 +1,36 @@
+@charset "iso-8859-1";
+/* CSS Document */
+body {
+	background-color: #CCCCCC;
+}
+#formulario {
+	font-family: Arial, Helvetica, sans-serif;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #000099;
+	border-right-color: #000099;
+	border-bottom-color: #000099;
+	border-left-color: #000099;
+	float: inherit;
+}.centro {
+	text-align: center;
+}
+.tabela {
+	background-color: #FFF;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+	text-align: center;
+	border-spacing: 0px;
+	border-collapse: 0px;
+}
+.td {
+	margin: 0px;
+}

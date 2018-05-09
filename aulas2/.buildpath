@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="1_basicos"/>
+	<buildpathentry kind="src" path="2_variaveis_constantes"/>
+	<buildpathentry kind="src" path="3_operadores"/>
+	<buildpathentry kind="src" path="4_estruturas"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
